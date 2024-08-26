@@ -4,7 +4,7 @@
         <h1>MENU</h1>
     </div>
     <div class="pages">
-        <a href="index.php?uc=accueil">Acuueil.</a>
+        <a href="index.php?uc=accueil">Accueil.</a>
         <a href="index.php?uc=about">About.</a>
     </div>
     <a  href="https://www.linkedin.com/in/francis-siber-50635425a/" class="links" target="_blank">
